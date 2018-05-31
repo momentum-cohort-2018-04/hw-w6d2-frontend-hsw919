@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: lightgray;
+}
+
+.book {
+  background: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 20px;
+}
+
+.book__img {
+  height: 350px;
+}
+
+.info-button {
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.App {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.hidden {
+  display: none;
+}
+
+span {
+  font-weight: bold;
+}
